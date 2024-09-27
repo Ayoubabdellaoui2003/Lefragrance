@@ -157,6 +157,7 @@ if (isset($_POST['discount_code']) && $_POST['discount_code'] === 'CODE24') {
                     </div>
                     <div class="col-md-6">
                         <!-- Winkelwagen samenvatting -->
+                         <!-- USER STORY 3 (Ayoub) -->
                         <h4>Jouw Bestelling</h4>
                         <p>Subtotaal: €<?php echo number_format($total_price + $discount, 2, ',', '.'); ?></p>
                         <p>Korting: €<?php echo number_format($discount, 2, ',', '.'); ?></p>
