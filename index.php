@@ -159,7 +159,7 @@
     🎉 CODE24 voor €35 korting! 🎉
     </div>
 
-    <!-- Zoekbalk en categorie -->
+    <!-- Zoekbalk en categorie selectie -->
     <div class="search-bar">
     <form action="zoeken.php" method="GET">
         <input type="text" name="query" placeholder="Zoek naar producten..." required>
