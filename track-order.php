@@ -20,7 +20,7 @@
         }
 
         .navbar .navbar-brand, .navbar .nav-link {
-            color: white !important; /* Witte tekstkleur voor de links */
+            color: white !important; /* Witte tekstkleur voor links */
         }
 
         .navbar .nav-link:hover {

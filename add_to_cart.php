@@ -5,7 +5,7 @@ include 'config.php'; // Zorg ervoor dat je database.php het correcte pad heeft
 if (isset($_POST['product_id'])) {
     $product_id = intval($_POST['product_id']);
 
-    // Voeg product toe aan winkelwagen
+    // Voeg product toe aan de winkelwagen
     if (!isset($_SESSION['cart'])) {
         $_SESSION['cart'] = array();
     }

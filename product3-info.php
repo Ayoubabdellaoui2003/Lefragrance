@@ -45,7 +45,7 @@
         }
 
         .btn-info {
-            background-color: #8B4513; /* Donkerbruine kleur voor info knop */
+            background-color: #8B4513; /* Donkerbruine kleur voor de info knop */
             border: none;
             color: white;
             padding: 10px 20px;

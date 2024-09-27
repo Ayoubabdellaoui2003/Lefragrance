@@ -11,7 +11,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $_SESSION['cart'] = [];
     }
 
-    // Voeg het product toe aan de winkelwagen of update de hoeveelheid
+    // Voeg het product toe aan de winkelwagen of update de hoeveelheid 
     if (isset($_SESSION['cart'][$product_id])) {
         $_SESSION['cart'][$product_id] += $quantity;
     } else {
