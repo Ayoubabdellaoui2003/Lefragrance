@@ -160,6 +160,7 @@
     </div>
 
     <!-- Zoekbalk en categorie selectie -->
+     <!-- USER STORY 1 (Ayoub) -->
     <div class="search-bar">
     <form action="zoeken.php" method="GET">
         <input type="text" name="query" placeholder="Zoek naar producten..." required>

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Yves Saint Laurent - Fragrance Store</title>
+    <title>Gisada - Pure Perfection - Fragrance Store</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <style>
         body {
@@ -140,12 +140,12 @@
             <div class="row">
                 <!-- Product Info -->
                 <div class="col-md-6">
-                    <img src="images/bif.jpg" class="img-fluid" alt="Yves Saint Laurent - Y Eau de Parfum">
+                    <img src="images/bif.jpg" class="img-fluid" alt="Gisada - Pure Perfection - Y Eau de Parfum">
                 </div>
                 <div class="col-md-6">
-                    <h2>Yves Saint Laurent - Y Eau de Parfum</h2>
+                    <h2>Gisada - Pure Perfection</h2>
                     <p>€85.00</p>
-                    <p>Y Eau de Parfum is een krachtige geur die de moderniteit van de man van vandaag weerspiegelt. Het is een perfecte balans tussen frisse citrusnoten en warme houtachtige akkoorden, ideaal voor elke gelegenheid.</p>
+                    <p>Pure Perfection is een meesterwerk van Gisada dat de essentie van luxe en verfijning vastlegt. Deze geur is een harmonieuze combinatie van sprankelende citrus, delicate bloemen en warme houtachtige noten. Perfect voor de moderne man die zijn stijl en persoonlijkheid wil benadrukken.</p>
                     <form action="winkelwagen.php" method="post">
                         <div class="form-group">
                             <label for="quantity">Hoeveelheid:</label>

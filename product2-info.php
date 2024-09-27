@@ -143,9 +143,9 @@
                     <img src="images/jean paul1.jpg" class="img-fluid" alt="Jean-Paul">
                 </div>
                 <div class="col-md-6">
-                    <h2>Gisada - Pure Perfection</h2>
+                    <h2>Jean Paul Gaultier</h2>
                     <p>€75.00</p>
-                    <p>Pure Perfection is een meesterwerk van Gisada dat de essentie van luxe en verfijning vastlegt. Deze geur is een harmonieuze combinatie van sprankelende citrus, delicate bloemen en warme houtachtige noten. Perfect voor de moderne man die zijn stijl en persoonlijkheid wil benadrukken.</p>
+                    <p>Wanneer zeeman Le Male Elixir aan boord stapt, vallen de verhitte gemoederen niet meer te bedaren! De geur van Le Male Elixir van Jean Paul Gaultier is zo krachtig aan dek dat smeltend goud zijn onweerstaanbare torso in vlammende strepen doet oplaaien. Deze houtachtige aromatische amber parfum doet menig vurig verlangen op het onomkeerbare moment dat deze verslavende geur op zijn lichaam neerstrijkt! De zon draait door. Blakend van verlangen doet dit sensuele elixer onder zijn transparante bruine matrozentopje hemel en aarde bewegen. Houtachtige aromatische ambertoetsen definiëren deze intense geur.</p>
                     <form action="winkelwagen.php" method="post">
                         <div class="form-group">
                             <label for="quantity">Hoeveelheid:</label>

@@ -274,6 +274,7 @@ foreach ($_SESSION['cart'] as $id => $quantity) {
         }
 
         // Functie om de korting toe te passen
+        // USER STORY 7 (Ayoub)
         function applyDiscount() {
             const discountCode = document.getElementById('discount-code').value;
             if (discountCode === 'CODE24') {

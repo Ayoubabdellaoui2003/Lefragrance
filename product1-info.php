@@ -145,7 +145,7 @@
                 <div class="col-md-6">
                     <h2>TomFord</h2>
                     <p>€78.00</p>
-                    <p>Wanneer zeeman Le Male Elixir aan boord stapt, vallen de verhitte gemoederen niet meer te bedaren! De geur van Le Male Elixir van Jean Paul Gaultier is zo krachtig aan dek dat smeltend goud zijn onweerstaanbare torso in vlammende strepen doet oplaaien. Deze houtachtige aromatische amber parfum doet menig vurig verlangen op het onomkeerbare moment dat deze verslavende geur op zijn lichaam neerstrijkt! De zon draait door. Blakend van verlangen doet dit sensuele elixer onder zijn transparante bruine matrozentopje hemel en aarde bewegen. Houtachtige aromatische ambertoetsen definiëren deze intense geur.</p>
+                    <p>Tom Ford Tobacco Vanille werd gelanceerd in 2007. Olivier Gillotin is de neus achter deze kruidige compositie. Hij opent de geur met een spicy mix met onder andere tabaksplantblad. Cacao is in het hart samengevoegd met tonkabonen, vanille en tabaksplantbloesem.</p>
                     <form action="winkelwagen.php" method="post">
                         <div class="form-group">
                             <label for="quantity">Hoeveelheid:</label>
