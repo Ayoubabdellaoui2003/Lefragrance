@@ -7,7 +7,7 @@ if (!isset($_SESSION['cart']) || empty($_SESSION['cart'])) {
     exit;
 }
 
-// Voorbeeld productgegevens
+// Voorbeeld productgegevens 
 $products = [
     1 => ["name" => "Tom Ford Oud Wood", "price" => 50.00],
     2 => ["name" => "Jean Paul", "price" => 75.00],
