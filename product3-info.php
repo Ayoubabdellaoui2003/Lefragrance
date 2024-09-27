@@ -33,7 +33,7 @@
 
         .ingredienten-info {
             display: none;
-            background-color: #f8f9fa; /* Lichtgrijze achtergrondkleur */
+            background-color: #f8f9fa; /* Lichtgrijze achtergrondkleur */ 
             border: 1px solid #ced4da;
             border-radius: 5px;
             padding: 15px;
