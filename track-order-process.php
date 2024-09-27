@@ -7,7 +7,7 @@ try {
     // Verkrijg de bestelnummer van het formulier
     $order_id = $_POST['order_id'];
 
-    // Bereid de SQL-query voor om de status en het procesnummer van de bestelling op te halen
+    // Bereid de SQL-query voor om de status en het procesnummer van de bestelling op te halen 
     $sql = 'SELECT process_number, status FROM track_order WHERE order_id = :order_id';
     $stmt = $pdo->prepare($sql);
     $stmt->execute([':order_id' => $order_id]);
