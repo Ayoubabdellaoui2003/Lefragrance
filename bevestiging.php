@@ -144,6 +144,7 @@
     </div>
 
     <!-- Confirmation Section -->
+     <!-- USER STORY 5 (Ayoub) -->
     <section class="confirmation">
         <div class="container">
             <h2>Bestelling Bevestigd</h2>
