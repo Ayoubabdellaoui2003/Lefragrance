@@ -7,7 +7,7 @@ $categorie = isset($_GET['categorie']) ? strtolower(trim($_GET['categorie'])) : 
 $query = preg_replace('/\s+/', '-', $query);
 $categorie = preg_replace('/\s+/', '-', $categorie);
 
-// Redirect logica afhankelijk van zoekopdracht en de categorie
+// Redirect logica afhankelijk van zoekopdracht en de categorie 
 if ($query === 'tom-ford' || $categorie === 'tom-ford') {
     header("Location: product1-info.php");
     exit();
