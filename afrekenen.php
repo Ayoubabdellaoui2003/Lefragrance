@@ -13,7 +13,7 @@ $products = [
     2 => ["name" => "Jean Paul", "price" => 75.00],
 ];
 
-// Bereken het totaal van de winkelwagen
+// Berekent het totaal van de winkelwagen
 $total_price = 0.00;
 foreach ($_SESSION['cart'] as $id => $quantity) {
     if (isset($products[$id])) {
