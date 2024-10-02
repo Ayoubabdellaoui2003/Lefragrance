@@ -144,7 +144,7 @@
                 </div>
                 <div class="col-md-6">
                     <h2>TomFord</h2>
-                    <p>€78.00</p>
+                    <p>€50.00</p>
                     <p>Tom Ford Tobacco Vanille werd gelanceerd in 2007. Olivier Gillotin is de neus achter deze kruidige compositie. Hij opent de geur met een spicy mix met onder andere tabaksplantblad. Cacao is in het hart samengevoegd met tonkabonen, vanille en tabaksplantbloesem.</p>
                     <form action="winkelwagen.php" method="post">
                         <div class="form-group">
