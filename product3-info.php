@@ -144,7 +144,7 @@
                 </div>
                 <div class="col-md-6">
                     <h2>Gisada - Pure Perfection</h2>
-                    <p>€85.00</p>
+                    <p>€100.00</p>
                     <p>Pure Perfection is een meesterwerk van Gisada dat de essentie van luxe en verfijning vastlegt. Deze geur is een harmonieuze combinatie van sprankelende citrus, delicate bloemen en warme houtachtige noten. Perfect voor de moderne man die zijn stijl en persoonlijkheid wil benadrukken.</p>
                     <form action="winkelwagen.php" method="post">
                         <div class="form-group">
